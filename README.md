@@ -34,7 +34,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/andremude">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=andremude&show_icons=true&locale=en&theme=algolia&count_private=true" alt="andremude" />
   <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andremude&layout=compact&langs_count=8&theme=algolia"/>
