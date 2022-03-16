@@ -9,7 +9,7 @@
 🎓 &nbsp;Successfully completed Le Wagon's Web Development Bootcamp.\
 🌱 &nbsp;I'm a Data Analysis enthusiast.\
 ✍️ &nbsp;In my free time, I like cycling 🚴, trekking ⛰️🥾 and reading 📚. \
-💬 &nbsp;Feel free to reach out to me for collaboration.
+💬 &nbsp;Feel free to reach out to me for collaboration. Any advice is welcome!
 
 
 ### 🛠 &nbsp;Tech Stack
