@@ -1,5 +1,6 @@
 <!-- ![github](https://user-images.githubusercontent.com/71613801/157143043-043ed0f0-0181-4aec-b88e-8ac9095b66b9.jpg) -->
-![github-header-image](https://github.com/andremude/andremude/assets/71613801/28f9d87f-06ae-45ae-9754-a9de637922bb)
+![github-header-image (1)](https://github.com/andremude/andremude/assets/71613801/43d826bc-e542-4127-8579-9fb7670e201d)
+
 
 ## 👋 &nbsp;Hey there! I'm Andrés
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andremude&label=Profile%20views&color=0e75b6&style=flat" alt="andremude" /> </p>
